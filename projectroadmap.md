@@ -7,10 +7,10 @@
 - [x] Turn in Sprint #1 on D2L
 
 ## Sprint 2: 
-- Make small updates and add commit messages through GitHub Desktop
-- Committed at least 6 code changes of significant size with explanation given
-- Continues to track progress on planned and new tasks in projectroadmap.md
-- Turn in Sprint #2 on D2L
+- [x] Make small updates and add commit messages through GitHub Desktop
+- [x] Committed at least 6 code changes of significant size with explanation given
+- [x] Continues to track progress on planned and new tasks in projectroadmap.md
+- [x] Turn in Sprint #2 on D2L
 
 ## Sprint 3:
 - Further coding, refining, and testing
