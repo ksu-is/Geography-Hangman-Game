@@ -6,3 +6,4 @@ This game tests your geograpphy knowledge with a hangman style game. You guess e
 
 Hangman is such a popular game because it is simple enough that a child can play, but is as complex as whatever words the creater can think of. A geography game in this style will test your geography skills in a fun and interactive challenge.
 # hangman-game
+# Initial Commit
