@@ -1,1 +1,20 @@
 # Code 1.0
+import random
+
+# List of words (countries or capitals)
+WORDS = ["France", "Germany", "Japan", "India", "Brazil", "Russia", "China", "Canada", "Australia", "Italy"]
+
+def choose_word():
+    """Randomly chooses a word from the list."""
+    return random.choice(WORDS)
+
+def display_word(word, guessed_letters):
+    """Displays the word with blanks for letters not guessed."""
+    display = ""
+    for letter in word:
+        if letter in guessed_letters:
+            display += letter
+        else:
+            display += "_"
+    return display
+    
