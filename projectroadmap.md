@@ -13,9 +13,9 @@
 - [x] Turn in Sprint #2 on D2L
 
 ## Sprint 3:
-- Further coding, refining, and testing
-- Create one slide PowerPoint introducing your project
-- Upload the PowerPoint slide
+- [x] Further coding, refining, and testing
+- [x] Create one slide PowerPoint introducing your project
+- [x] Upload the PowerPoint slide
 
 ## Final Presentation 
 - Schedule a meeting in Microsoft Teams
